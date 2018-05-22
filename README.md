@@ -1,6 +1,6 @@
 ### IOTWSP2018 
 
-Notebooks e datasets da oficina introdução à machine learning usando python
+Notebooks e datasets da oficina de introdução à machine learning usando python
 no evento Intelligence of Things Week edição São Paulo 2018 na poli USP.
 
 
