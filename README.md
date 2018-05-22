@@ -1,11 +1,8 @@
-# IOTSP2018
+### IOTWSP2018 
 
-Nesta pasta estão os notebook e arquivos referentes as RNNs e embeddings
+Notebooks e datasets da oficina introdução à machine learning usando python
+no evento Intelligence of Things Week edição São Paulo 2018 na poli USP.
 
-Os três notebooks são:
 
-Seq2Seq: Arquitetura Recorrente + Neural Machine Translate (EN - PT-BR)
-
-word2vec_train: Treinamento de embeddings usando Word2Vec para o PT-BR
-
-word2vec_test: Similaridade semântica usando Word2Vec para o PT-BR
+- Parte 1 (Cassiano): Preprocessing+Trees+NNetwork
+- Parte 2 (Jéssica): RNN+Embeddings
